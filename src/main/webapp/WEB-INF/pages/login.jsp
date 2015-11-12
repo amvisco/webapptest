@@ -37,7 +37,7 @@
 </head>
 <body onload='document.loginForm.username.focus();'>
 
-	<h1>Citi Login</h1>
+	<h1 align="center">Citi Login</h1>
 
 	<div id="login-box">
 
